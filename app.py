@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
 # Page title
-st.title("🍷 K-Means Clustering on Wine Quality Dataset by Phattharajin Joyjaroen")
+st.title("🍷 K-Means Clustering on Wine Quality Dataset by Project2_group3")
 
 # Load dataset
 @st.cache_data
